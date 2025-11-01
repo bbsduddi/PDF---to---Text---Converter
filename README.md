@@ -1,30 +1,36 @@
-# PDF to Text Converter  
-This is a simple tool that converts PDF files into text.  
-You can use it to quickly extract text from scanned or regular PDFs.  
+# PDF Merger and Splitter
 
-## Features  
-- Converts PDF to plain text  
-- Easy to use  
-- Lightweight  
-
-## How to use  
-1. Download the ZIP file  
-2. Extract it  
-3. Run the `.exe` file to start the tool  
-
-## Created by  
-Himanshu Duddi (Coding_with_Zeherpro)
-
+This tool helps you easily *merge multiple PDF files* into one or *split* a single PDF into separate pages.
 
 ---
 
-## 💵 Buy This Tool (Support the Developer)
+## 🧩 Features
+- Merge multiple PDFs into one file.
+- Split a PDF into individual pages.
+- Simple and easy-to-use interface.
+- Works offline on Windows.
 
-If you liked this project and want to use it for personal or business work,  
-you can support me by buying the full version.
+---
 
-**Price:** ₹200 (one-time)  
-**Pay via Paytm (UPI):** 8447539049@ptyes  
+## 💰 Price
+*₹200 (Paytm / UPI)*  
+UPI ID: 8447539049@paytm
 
-After payment, message me on email or WhatsApp to get the .exe file.  
-Thank you for supporting my coding journey 🙏
+After payment, send the payment screenshot and your email/WhatsApp to get the download link.
+
+---
+
+## 🧑‍💻 How to Use
+1. Run the .exe file.
+2. Choose to either *Merge PDFs* or *Split PDF*.
+3. Select your files.
+4. Click “Start” and wait a few seconds.
+5. Your output will be saved in the same folder.
+
+---
+
+## 📞 Contact / Support
+- WhatsApp: +91 8447539049
+- Email: jyoti0095@gmail.com
+-
+- thank you for supporting my coding journey 🙏
