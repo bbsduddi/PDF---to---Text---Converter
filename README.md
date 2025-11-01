@@ -16,6 +16,15 @@ You can use it to quickly extract text from scanned or regular PDFs.
 Himanshu Duddi (Coding_with_Zeherpro)
 
 
-**PayPal:** [https://paypal.me/yourlink](https://paypal.me/yourlink)
+---
 
-Thank you for supporting my work 🙏
+## 💵 Buy This Tool (Support the Developer)
+
+If you liked this project and want to use it for personal or business work,  
+you can support me by buying the full version.
+
+**Price:** ₹200 (one-time)  
+**Pay via Paytm (UPI):** 8447539049@ptyes  
+
+After payment, message me on email or WhatsApp to get the .exe file.  
+Thank you for supporting my coding journey 🙏
