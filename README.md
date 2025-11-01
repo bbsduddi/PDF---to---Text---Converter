@@ -14,7 +14,7 @@ This tool helps you easily *merge multiple PDF files* into one or *split* a sing
 
 ## 💰 Price
 *₹200 (Paytm / UPI)*  
-UPI ID: 8447539049@paytm
+UPI ID: 8447539049@ptyes
 
 After payment, send the payment screenshot and your email/WhatsApp to get the download link.
 
