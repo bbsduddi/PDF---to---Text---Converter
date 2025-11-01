@@ -14,3 +14,8 @@ You can use it to quickly extract text from scanned or regular PDFs.
 
 ## Created by  
 Himanshu Duddi (Coding_with_Zeherpro)
+
+
+**PayPal:** [https://paypal.me/yourlink](https://paypal.me/yourlink)
+
+Thank you for supporting my work 🙏
